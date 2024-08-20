@@ -103,7 +103,7 @@ header .logo img {
 
 .parallax {
     background-color: #46345D;
-    background-image: url('./assets/layers/sky.png');
+    background-image: url('../assets/layers/sky.png');
     image-rendering: pixelated;
     background-size: 100% auto;
     background-repeat: no-repeat;
@@ -165,27 +165,27 @@ header .logo img {
 
 .far-clouds {
     --image-width: 128px;
-    background-image: url('./assets/layers/far-clouds.png');
+    background-image: url('../assets/layers/far-clouds.png');
 }
 
 .near-clouds {
     --image-width: 144px;
-    background-image: url('./assets/layers/near-clouds.png');
+    background-image: url('../assets/layers/near-clouds.png');
 }
 
 .far-mountains {
     --image-width: 160px;
-    background-image: url('./assets/layers/far-mountains.png');
+    background-image: url('../assets/layers/far-mountains.png');
 }
 
 .mountains {
     --image-width: 320px;
-    background-image: url('./assets/layers/mountains.png');
+    background-image: url('../assets/layers/mountains.png');
 }
 
 .trees {
     --image-width: 240px;
-    background-image: url('./assets/layers/trees.png');
+    background-image: url('../assets/layers/trees.png');
 }
 
 @keyframes scroll {
