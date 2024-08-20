@@ -195,3 +195,13 @@ header .logo img {
         background-position-x: calc(1 * var(--scroll-width));
     }
 }
+
+.rpg {
+    width: 100%;
+}
+
+.rpg img {
+    width: 100%;
+    image-rendering: pixelated;
+    transform: translateY(-10px);
+}
