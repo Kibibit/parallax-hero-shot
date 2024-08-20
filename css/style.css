@@ -95,7 +95,7 @@ header .call-to-action button:hover {
 
 header .logo img {
     height: 100%;
-    padding: 0.6em;
+    padding: 0.6em 0.6em 0.6em 0;
 }
 
 .parallax {
