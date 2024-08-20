@@ -198,10 +198,15 @@ header .logo img {
 
 .rpg {
     width: 100%;
+    background-color: #52865A;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .rpg img {
     width: 100%;
+    max-width: 1200px;
     image-rendering: pixelated;
     transform: translateY(-10px);
 }
