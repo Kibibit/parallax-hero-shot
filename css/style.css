@@ -29,6 +29,7 @@ header {
     flex-wrap: wrap;
     padding: 0 1em;
     font-size: 1rem;
+    z-index: 1000;
 }
 
 header .logo {
